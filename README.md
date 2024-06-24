@@ -6,7 +6,7 @@ GPT-3 Possibilities
 and ...
 
 
--Created With Vite Plugin
+-Created With Vite Tool
 
 
 -Full Responsive
